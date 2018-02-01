@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="hint_name">Nume</string>
+    <string name="topping">Toping</string>
+    <string name="whipped_cream">Frisca</string>
+    <string name="chocolate">Ciocolata</string>
+    <string name="quantity">Cantitate</string>
+    <string name="order">COMANDA</string>
+
+    <string name="subject">JustJava comanda pentru</string>
+    <string name="oredr_name">Nume:</string>
+    <string name="order_add_whipped_cream">Adauga frisca?</string>
+    <string name="order_add_choclate">Adauga ciocolata?</string>
+    <string name="order_quantity">Cantitate:</string>
+    <string name="order_total">Total: $</string>
+    <string name="order_thank_you">Multumesc!</string>
+
+    <string name="toast_increment">Nu poti comanda mai mult de 100 de cani de cafea</string>
+    <string name="toast_decrement">Nu poti comanda mai putin de o cana de cafea</string>
+</resources>
